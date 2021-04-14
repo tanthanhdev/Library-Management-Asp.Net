@@ -7,7 +7,7 @@
 
 ## Development
 
-The backend of the system is developed on **[ASP.NET Web Application (.Net Framework)](https://dotnet.microsoft.com/apps/aspnet)**
+The backend of the system is developed on **[ASP.NET Web Application (.Net Framework)](https://dotnet.microsoft.com/apps/aspnet)**. The front end is built on HTML & CSS (doesn't use any front-end framework).
 
 ## Features
 
