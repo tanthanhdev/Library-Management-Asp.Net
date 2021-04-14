@@ -16,7 +16,7 @@ The backend of the system is developed on **[ASP.NET Web Application (.Net Frame
 ## Credits
 
 - [Tan Thanh](https://github.com/tanthanhdev)
-- [Van Hiep]
+- [Van Hiep](https://github.com/vanhiep6518)
 - [Minh Tri]
 - [Minh Hung]
 
