@@ -12,6 +12,7 @@ The backend of the system is developed on **[ASP.NET Web Application (.Net Frame
 ## Features
 
  + Students can access limited features (not yet), public access level features which include **searching a book** and **student registration form**.
+ + In addition, librarians can **add, delete and edit** with the functions of Manage **news, users and borrow books**.
 
 ## Credits
 
