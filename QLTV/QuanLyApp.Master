@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="QuanLyApp.master.cs" Inherits="QLTV.QuanLyApp" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="QuanLyApp.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header"></div>
+        <div class="menu">
+            <ul>
+                <li><asp:HyperLink NavigateUrl="QuanLyNguoiDung.aspx" runat="server">Quản lý người dùng</asp:HyperLink></li>
+                <li><asp:HyperLink NavigateUrl="QuanLySach.aspx" runat="server">Quản lý sách</asp:HyperLink></li>
+                <li><asp:HyperLink NavigateUrl="QuanLyTinTuc.aspx" runat="server">Quản lý tin tức</asp:HyperLink></li>
+            </ul>
+        </div>
+        <div class="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+         <div class="footer-dark">
+            <footer>
+            <div class="container">
+                <table>
+                    <tr>
+                        <td class="item1">
+                            <h3>Services</h3>
+                            <ul>
+                                <li><a href="#">Giới thiệu</a></li>
+                                <li><a href="#">Giới thiệu sách</a></li>
+                                <li><a href="#">Tin tức - sự kiện</a></li>
+                            </ul>
+                        </td>
+                        <td class="item2">
+                            <h3>About</h3>
+                            <ul>
+                                <li><a href="#">Liên hệ</a></li>
+                            </ul>
+                        </td>
+                        <td class="item3">
+                            <h3>Company GROUP</h3>
+                            <p></p>
+                        </td>
+                    </tr>
+                </table>
+                
+               
+                    <div class="col item social"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+                <p class="copyright">Company GROUP © 2021</p>
+            </div>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>

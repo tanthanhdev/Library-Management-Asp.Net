@@ -1,0 +1,224 @@
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\QLTV.dll.config
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\QLTV.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\QLTV.pdb
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\csc.exe
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\csc.exe.config
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\csc.rsp
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\csi.exe
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\csi.exe.config
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\csi.rsp
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.Managed.Core.targets
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.AppContext.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Collections.Immutable.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Console.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.IO.Compression.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.IO.FileSystem.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.IO.Pipes.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Reflection.Metadata.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Security.AccessControl.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Claims.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Principal.Windows.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.ValueTuple.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.XmlDocument.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.XPath.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\vbc.exe
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\vbc.exe.config
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\vbc.rsp
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\VBCSCompiler.exe
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\roslyn\VBCSCompiler.exe.config
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.CopyComplete
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\obj\Debug\QLTV.dll
+E:\School\KT TMDT ASP.Net\project\QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\QLTV.dll.config
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\QLTV.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\QLTV.pdb
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csc.exe
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csc.exe.config
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csc.rsp
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csi.exe
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csi.exe.config
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csi.rsp
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.Managed.Core.targets
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.AppContext.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Collections.Immutable.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Console.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.Compression.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.FileSystem.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.Pipes.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Reflection.Metadata.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.AccessControl.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Claims.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Principal.Windows.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.ValueTuple.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.XmlDocument.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.XPath.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\vbc.exe
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\vbc.exe.config
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\vbc.rsp
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\VBCSCompiler.exe
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\VBCSCompiler.exe.config
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.CopyComplete
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\QLTV.dll.config
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\QLTV.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\QLTV.pdb
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csc.exe
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csc.exe.config
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csc.rsp
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csi.exe
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csi.exe.config
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csi.rsp
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.Managed.Core.targets
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.AppContext.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Collections.Immutable.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Console.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.Compression.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.FileSystem.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.Pipes.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Reflection.Metadata.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.AccessControl.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Claims.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Principal.Windows.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.ValueTuple.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.XmlDocument.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.XPath.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\vbc.exe
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\vbc.exe.config
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\vbc.rsp
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\VBCSCompiler.exe
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\VBCSCompiler.exe.config
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.CopyComplete
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.dll
+E:\School\KT TMDT ASP.Net\project\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\QLTV.dll.config
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\QLTV.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\QLTV.pdb
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csc.exe
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csc.exe.config
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csc.rsp
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csi.exe
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csi.exe.config
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\csi.rsp
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.Managed.Core.targets
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.AppContext.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Collections.Immutable.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Console.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.Compression.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.FileSystem.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.IO.Pipes.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Reflection.Metadata.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.AccessControl.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Claims.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Security.Principal.Windows.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.ValueTuple.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.XmlDocument.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.XPath.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\vbc.exe
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\vbc.exe.config
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\vbc.rsp
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\VBCSCompiler.exe
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\roslyn\VBCSCompiler.exe.config
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.CopyComplete
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.dll
+E:\FFOutput\Save Projects\S-Visual Studio 2019\Ky Thuat Thuong Mai Dien Tu\GROUP PROJECT\DONE\CloneGit\QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb

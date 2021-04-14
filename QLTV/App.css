@@ -1,0 +1,133 @@
+﻿body {
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 8px 8px 8px 8px;
+    background-image: url(./images/library-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.menu {
+    width: 100%;
+    height: 30px;
+    margin: auto;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: grey;
+}
+
+    .menu ul li {
+        list-style: none;
+        display: inline-block;
+        margin: 5px 20px;
+        position: relative;
+    }
+
+        .menu ul li a {
+            text-decoration: none;
+            color: #fff;
+            text-transform: uppercase;
+            font-family: Arial;
+        }
+
+        .menu ul li::after {
+            content: '';
+            height: 3px;
+            width: 0%;
+            background: #ffffff;
+            position: absolute;
+            left: 0;
+            bottom: -10px;
+            transition: 0.5s;
+        }
+
+        .menu ul li:hover::after {
+            width: 100%;
+        }
+
+
+
+.sidebar {
+    width: 20%;
+    height: 600px;
+    background-color: gray;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-style: solid;
+    border-color: beige;
+    float: right;
+    box-sizing: border-box;
+}
+
+
+
+img.iconPointer {
+    width: 15px;
+    height: 15px;
+}
+
+
+div.search {
+    margin-top: 15px;
+}
+
+
+.footer-dark {
+    clear: both;
+    width: 100%;
+    padding: 50px 0;
+    color: #f0f9ff;
+    background-color: #282d32;
+}
+
+    .footer-dark h3 {
+        margin-top: 0;
+        margin-bottom: 12px;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .footer-dark ul {
+        padding: 0;
+        list-style: none;
+        line-height: 1.6;
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+
+        .footer-dark ul a {
+            color: inherit;
+            text-decoration: none;
+            opacity: 0.6;
+        }
+
+            .footer-dark ul a:hover {
+                opacity: 0.8;
+            }
+
+.container .copyright {
+    text-align: center;
+    padding-top: 24px;
+    opacity: 0.3;
+    font-size: 13px;
+    margin-bottom: 0;
+}
+
+
+.container .item1 {
+    width: 300px;
+}
+
+.container .item2 {
+    width: 300px;
+}
+
+.container .item3 {
+    width: 700px;
+}

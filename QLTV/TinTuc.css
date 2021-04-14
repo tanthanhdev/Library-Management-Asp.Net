@@ -1,0 +1,80 @@
+﻿.article-title {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    color: #e32;
+    font: normal Roboto-Bold;
+    line-height: 1.25;
+    margin-bottom: 2px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.date-time {
+    color: #727b88;
+    font: normal Roboto;
+    margin-bottom: 12px;
+    padding: 4px 0;
+}
+
+.sapo {
+    
+    color: #222;
+    font: normal 16px/normal NotoSans-Bold;
+    line-height: 22px;
+    margin-bottom: 12px;
+    letter-spacing: -.2px;
+}
+
+.content-detail .main-content-body .fck {
+    width: 100%;
+}
+.content-detail .main-content-body .fck .a {
+    color: #ed1b2f;
+    display: initial;
+    letter-spacing: -.2px;
+}
+
+.detail-img-lightbox {
+    cursor: zoom-in;
+    display: block;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+}
+
+.content-detail .main-content-body .fck .VCSortableInPreviewMode[typeof="Photo"] {
+    display: table;
+    position: relative;
+    z-index: 2;
+    color: #222;
+    font: normal 11px/normal Roboto;
+    line-height: 1.45;
+}
+
+.content-detail .main-content-body .fck .VCSortableInPreviewMode {
+    margin: 1.3em auto 0;
+    text-align: center;
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    width: 586px;
+}
+
+.content-detail .main-content-body .fck {
+    color: #222;
+    font: normal 16px/normal NotoSans-Regular;
+    line-height: 1.44;
+    letter-spacing: -.2px;
+}
+
+.content-detail .main-content-body .fck .VCSortableInPreviewMode .PhotoCMS_Caption.ck_legend {
+    text-align: center;
+}
+
+.content-detail .main-content-body .fck .PhotoCMS_Caption {
+    background: #e9e9e9;
+    margin-top: -5px;
+    padding: 5px 8px;
+    margin-bottom: 24px;
+}
