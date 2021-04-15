@@ -1,6 +1,7 @@
 # Library Management Asp.Net
 
 > An system to manage a public library. Admin panel for librarians to control and manage the system easily through an interactive interface.
+> **In addition, produced by a group of Duy Tan university students.**
 
  + [Development](#development)
  + [Features](#features)
